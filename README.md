@@ -20,7 +20,7 @@ CutBuddy is a personal fitness tracking API built with **FastAPI**. It supports 
 - **Framework**: FastAPI (Python 3.11+)
 - **Database**: PostgreSQL
 - **ORM**: SQLAlchemy
-- **Containerization**: Docker (optional)
+- **Containerization**: Docker 
 - **Environment Management**: `python-dotenv`, `.env`
 
 ---
